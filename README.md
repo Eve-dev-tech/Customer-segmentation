@@ -1,11 +1,13 @@
 # Unsupervised-learning
-This project uses credit card Customer Data to improve market penetration and upgrade the service delivery model.
+This project uses credit card Customer Data to identify different segments in the existing customers, based on their spending patterns as well as past interaction with the bank.
+
+
 
 
 ## MLS Case study: Unsupervised Learning
 ----------------------------------------
 
-Welcome to the case study on Unsupervised Learning. We will be using the Credit Card Customer Data for this case study.
+I will be using the Credit Card Customer Data for this case study.
 
 ----------------------------
 ## Problem Statement: 
