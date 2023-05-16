@@ -1,5 +1,7 @@
-# Unsupervised-learning
+# Customer Segmantation with Unsupervised-learning
 This project uses credit card Customer Data to identify different segments in the existing customers, based on their spending patterns as well as past interaction with the bank.
+
+This project is part of my MIT IDSS Data science and Machine Learining coursework.
 
 
 
